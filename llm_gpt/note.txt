@@ -1,0 +1,98 @@
+normal parameter
+batch_size      : 32
+block_size      : 64
+learning_rate   : 3e-4
+max_iters       : 500
+eval_iters      : 50
+n_embd          : 384
+n_head          : 4
+n_layer         : 4
+dropout         : 0.2
+
+changed parameter
+model           : single train model-03_2 overfitting
+learning_rate   : 3e-3
+loss            : 1.65
+output          : hellofcntmtjauoal0oeoal ,1gstneeheslt.hrae ,u itticshthr0e e fs7d octeevin ensr op 6btf7eIs swh iyn otbinnr foonsysdapplooeesnctot rr
+
+model           : single train model-03_01 overfitting
+learning_rate   : 3e-4
+loss            : 3.70
+output          : pena aefosouyaenoflondr"ix ,ri,  eerit ,liHetikitedrperfst"ilalh eaag'3 Ia Gmbew hl  nefe fucintass ai -rhmse e,arehntsadbnate4 hstio o rwt
+
+model           : 2x train model-03_01 -> model-03_3 overfitting
+learning_rate   : 3e-4
+loss            : 1.21
+output          : hellok fecke drecraipkran king secovtions. Evens. He to pult sowers, and He ame yeark castee haveme the pall prow caplory Dratmanes gimt Carrio." The surba
+
+model           : 3x train model-03_3 -> model-03_4 overfitting
+learning_rate   : 3e-4
+loss            : 1.98
+output          : hellood veens Jienick DE) r hood chiff worth, where shen to benting on, that spansignNe a balk; Chains as wor0 with alcont has lege at and that. In d facce
+
+model           : single train model-04_1
+learning_rate   : 3e-3
+max_iters       : 1000
+loss            : 2.20
+output          : helloullly as to of an stenew, ary the my firsing…. Tal Lou is sllesplratel.
+
+model           : 2x train model-04_1 -> model-04_2
+learning_rate   : 3e-3
+max_iters       : 1000
+loss            : 2.21
+output          : hellog oper in there-win to a proubly the scoscarding the ushe. Onarre asemine splionid itstled to for un althat hong of” to was thi콥led of to leconcemerie
+
+model           : SW_6_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 3500 (checkpoint / 500 iters)
+loss            : 6.29
+output          : Teenage . For example , saying it Catholic these recent powers . But if you should quite know it house , in a With 3
+
+model           : SW_7_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 3500 (checkpoint / 500 iters) + 1000
+loss            : 5.80
+output          : Shel shall probably musician if there is leaving its end to the collection of Vehicles lli on subscribe — which exclusive em translate as a fall to a sudden based on the Royal are posed by a four 
+
+model           : SW_8_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 3500 (checkpoint / 500 iters) + 2000
+loss            : 6.03
+output          : apps preschool Tribune ity oras 0 ustar 0000000 0000000 hesitated algorithm for this time announced :
+
+model           : SW_9_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 3500 (checkpoint / 500 iters) + 3000
+loss            : 6.64
+output          : surveillance prize , the fire in Atlantic Throat still sent ."[ 50 ][ 50 ] In the short week , The accompanied by a Too 500 to care of the end of the user and can be evident with the valid PipeReader national sets
+
+model           : SW_I_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 7500
+loss            : 6.31
+output          : militarism . It is the wed system is only with the planet ," a initial choice but there came out of hard !") is a blog favorite nearly health 1970s 
+
+model           : SW_II_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 9000
+loss            : 5.76
+output          : had written . activation has proceed to 40 million Center for the entire two percent to the Che irre ares to carve its possible ">  
+
+model           : SW_III_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 10,500
+loss            : 6.21
+output          : like constraints , hardly because questions about that and if that American , they never built at less ,
+
+model           : SW_IV_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 5k + SW_III_Final.pkl
+loss            : 5.55
+output          : PG D . T work becomes clearer . Any quick measure , failures as a potential sessions of commitments and tuition . So they supports sport and Verizon .
+
+model           : SW_V_Final.pkl
+learning_rate   : 3e-4
+max_iters       : 33,800
+loss            : 5.37
+output          : you want . road output ?” but almost such a reality , Gor man . But she continues regularly from sic , ever , to walk .
+-
